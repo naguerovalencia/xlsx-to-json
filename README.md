@@ -11,7 +11,7 @@ XLSX to JSON is a parser that works reading a xlsx file directly from an URL and
 
 ## Requisites
 
-Dillinger uses a number of open source projects to work properly:
+XLSX To JSON uses a number of open source projects to work properly:
 
 - [ExcelJS] - Read, manipulate and write spreadsheet data and styles to XLSX and JSON!
 
